@@ -20,7 +20,6 @@ export class App {
     this.app.set('port', this.port || process.env.PORT || 3000);
   }
 
-
   middleware(): void {
     this.app.use(morgan('dev'));
     this.app.use(cors());
