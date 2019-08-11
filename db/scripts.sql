@@ -13,7 +13,7 @@ USE MESA;
 
 CREATE TABLE tsolicitud(
     id INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    tsolicitud VARCHAR(16) NOT NULL,
+    tsolicitud VARCHAR(16) NOT NULL
 );
 
 USE MESA;

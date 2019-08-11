@@ -1,8 +1,8 @@
 module.exports = {
     database: {
-        host: "localhost",
-        user: "root",
-        password: "Passw0rd!!",
-        database: "mesa"
+        host: "bmuvwlqbsdnwf91foafz-mysql.services.clever-cloud.com",
+        user: "uymrwv2qyw7omw60",
+        password: "w16echtiZnqHkx43ls8j",
+        database: "bmuvwlqbsdnwf91foafz"
     }
 };
