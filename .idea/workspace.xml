@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08c9467c-ff4a-4db8-9741-c811b0990558" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/app/controller/tsolicitud.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/controller/tsolicitud.controller.ts" afterDir="false" />
-    </list>
+    <list default="true" id="08c9467c-ff4a-4db8-9741-c811b0990558" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566785417380</updated>
       <workItem from="1566785421782" duration="171000" />
+      <workItem from="1566785725243" duration="92000" />
     </task>
     <servers />
   </component>
@@ -58,7 +57,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
